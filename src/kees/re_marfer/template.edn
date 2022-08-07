@@ -1,0 +1,8 @@
+{:description "A ready-to-go frontend template based on day8/re-frame-template."
+ 
+ :color "ivory" ; default html font color specified in main.css
+ :bg-color "burlywood" ; default html background color specified in main.css
+
+ :transform [["src" "src/{{raw-name/file}}"]
+             ["resources" "resources"]
+             ["dev" "dev"]]}
